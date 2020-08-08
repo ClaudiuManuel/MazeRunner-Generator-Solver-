@@ -2,7 +2,7 @@
 
 **Example**
 
-<img src="https://thumbs.gfycat.com/DistortedSpicyBackswimmer-size_restricted.gif" width="900" height="550" />
+<img src="https://thumbs.gfycat.com/DistortedSpicyBackswimmer-size_restricted.gif" width="900" height="500" />
 
 **Matrix drawn to showcase the logic behind the development of AdjacencyMatrix class.**
         

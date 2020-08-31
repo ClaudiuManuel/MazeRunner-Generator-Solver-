@@ -94,8 +94,6 @@ public class MazeSolver {
 
         //backtrack the path and make every element that is part of it equal to 2
         Spot current = end;
-        //System.out.print(end.getParent().getDistance());
-        //System.out.print(end.getI()+" " +end.getJ());
         while (current != start) {
             maze[current.getI()][current.getJ()] = 2;
             current = current.getParent();
